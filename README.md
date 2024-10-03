@@ -5,8 +5,8 @@ This is a simple Madlibs word game built using Python. The game allows users to 
 
 ## Features
 - Interactive prompts for adjectives, nouns, verbs, and more.
-- Generates a unique and funny story based on user inputs.
-- Replayable for endless fun!
+- Generates a unique story based on user inputs.
+- Replayable 
 
 ## How to Play
 1. Run the Python script (`madlibs.py`).
